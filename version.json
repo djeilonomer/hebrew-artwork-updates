@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.7.1",
-    "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.7.1/HebrewArtworkGenerator_Setup.exe",
-    "release_notes": "כפתור תמיכה טכנית ושיפורי ממשק",
+    "latest_version": "1.7.2",
+    "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.7.2/HebrewArtworkGenerator_Setup.exe",
+    "release_notes": "שיפור יציבות",
     "mandatory": false
 }
