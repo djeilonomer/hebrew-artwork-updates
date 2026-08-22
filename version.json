@@ -2,5 +2,11 @@
     "latest_version": "1.7.2",
     "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.7.2/HebrewArtworkGenerator_Setup.exe",
     "release_notes": "שיפור יציבות",
-    "mandatory": false
+    "mandatory": false,
+    "announcement": {
+        "id": "welcome_v1",
+        "he": "שלום! תודה שבחרת ב-LONO Artwork Generator.\nאשמח לשמוע ממך — איך אפשר לשפר את המערכת?\nשלח לי מייל: djeilonomer@gmail.com",
+        "en": "Hello! Thank you for choosing LONO Artwork Generator.\nI'd love to hear from you — how can we improve?\nEmail me: djeilonomer@gmail.com",
+        "ar": "مرحباً! شكراً لاختيارك LONO Artwork Generator.\nأحب أن أسمع منك — كيف يمكننا التحسين؟\nأرسل لي: djeilonomer@gmail.com"
+    }
 }
