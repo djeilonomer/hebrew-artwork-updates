@@ -1,8 +1,8 @@
 {
-    "latest_version": "1.9.8",
-    "latest_version_mac": "1.9.8",
-    "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.9.8-win/LonoArtworkGenerator_Setup.exe",
-    "download_url_mac": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.9.8-mac/LonoArtworkGenerator_v1.9.8_macOS.dmg",
+    "latest_version": "1.9.9",
+    "latest_version_mac": "1.9.9",
+    "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.9.9-win/LonoArtworkGenerator_Setup.exe",
+    "download_url_mac": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v1.9.9-mac/LonoArtworkGenerator_v1.9.9_macOS.dmg",
     "release_notes": "שיפור יציבות",
     "mandatory": false,
     "announcement": {
