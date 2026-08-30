@@ -1,8 +1,8 @@
 {
     "latest_version": "2.0.35",
-    "latest_version_mac": "2.0.23",
+    "latest_version_mac": "2.0.35",
     "download_url": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v2.0.35-win/LonoArtworkGenerator_Setup_v2.0.35.exe",
-    "download_url_mac": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v2.0.23-mac/LonoArtworkGenerator_v2.0.23_macOS.dmg",
+    "download_url_mac": "https://github.com/djeilonomer/hebrew-artwork-updates/releases/download/v2.0.35-mac/LonoArtworkGenerator_v2.0.35_macOS.dmg",
     "release_notes": "עדכוני EULA (גילוי נאות WAV, פטור מבאגים), תיקוני שפה בממשק",
     "mandatory": false,
     "announcement": {
